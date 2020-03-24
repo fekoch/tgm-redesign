@@ -1,0 +1,33 @@
+/* Logo Styling */
+.logo {
+    transform: translateY(3em);
+}
+
+/* Navbar buttons*/
+.mynav {
+    background: #123771;
+    height: 5em;
+}
+
+.navbar-nav {
+    height: 100%;
+}
+.nav-item {
+    background: #5075AF;
+    border-bottom: rgba(0,0,0,0.7) solid 0.3em;
+    border-right: rgba(0,0,0,0.7) solid 0.3em;
+    width: 8em;
+}
+.nav-item:active {
+    /*transform: translate(0.15em,0.15em);*/
+    background: #5075AF;
+    border-bottom: rgba(0,0,0,0.1) solid 0.1em;
+    border-right: rgba(0,0,0,0.1) solid 0.1em;
+    border-left: rgba(0,0,0,0.1) solid 0.3em;
+    border-top: rgba(0,0,0,0.1) solid 0.3em;
+    width: 8em;
+}
+
+.nav-link {
+    color: white !important;
+}
