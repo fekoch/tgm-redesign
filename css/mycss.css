@@ -10,7 +10,7 @@
 }
 
 /*custom navbar buttons */
-/*
+
 .nav-item {
     background: #5075AF;
     border-bottom: rgba(0,0,0,0.7) solid 0.3em;
@@ -18,7 +18,7 @@
 }
 
 .nav-item:active {
-    background: #5075AF;
+    background: rgba(80, 117, 175, 0.8);
     border-bottom: rgba(0,0,0,0.1) solid 0.0em;
     border-right: rgba(0,0,0,0.1) solid 0.0em;
     border-left: rgba(0,0,0,0.1) solid 0.3em;
@@ -28,4 +28,4 @@
 .nav-link {
     color: white !important;
 }
-*/
+
